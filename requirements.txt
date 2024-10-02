@@ -1,5 +1,5 @@
 gradio
-tensorflow
+tensorflow=2.14.0
 tensorflow-addons
 facenet-pytorch
 numpy

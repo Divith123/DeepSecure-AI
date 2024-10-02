@@ -1,10 +1,7 @@
-gradio
-tensorflow
-keras
+tensorflow==2.14.0
 tensorflow-addons
 facenet-pytorch
 numpy
-opencv-python
 opencv-python-headless
 mtcnn
 moviepy

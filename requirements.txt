@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-addons
+facenet-pytorch
+numpy
+opencv-python
+opencv-python-headless
+mtcnn
+moviepy
+torchsde==0.2.6
+transformers==4.30.2
+httpx==0.24.1

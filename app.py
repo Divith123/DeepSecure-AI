@@ -12,7 +12,7 @@ import zipfile
 
 local_zip = "FINAL-EFFICIENTNETV2-B0.zip"
 zip_ref = zipfile.ZipFile(local_zip, 'r')
-zip_ref.extractall('FINAL-EFFICIENTNETV2-B0')
+zip_ref.extractall('DeepSecure-Video')
 zip_ref.close()
 
 # Load face detector

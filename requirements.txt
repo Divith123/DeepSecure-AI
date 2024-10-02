@@ -1,5 +1,6 @@
 gradio
 tensorflow
+keras
 tensorflow-addons
 facenet-pytorch
 numpy

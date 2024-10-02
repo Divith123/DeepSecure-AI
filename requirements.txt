@@ -1,3 +1,4 @@
+gradio
 tensorflow
 tensorflow-addons
 facenet-pytorch

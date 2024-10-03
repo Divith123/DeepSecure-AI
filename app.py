@@ -91,7 +91,7 @@ class DetectionPipeline:
 
 detection_pipeline = DetectionPipeline(detector=mtcnn, n_frames=20, batch_size=60)
 
-model = tf.keras.models.load_model("FINAL-EFFICIENTNETV2-B0")
+model = tf.keras.models.load_model("DeepSecure-Video")
 
 
 def deepfakespredict(input_video):

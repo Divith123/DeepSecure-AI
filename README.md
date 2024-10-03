@@ -48,7 +48,7 @@ DeepSecure-AI uses the following architecture:
 
 Ensure you have the following installed:
 
-- Python 3.7+
+- Python 3.10
 - Gradio (`pip install gradio`)
 - TensorFlow (`pip install tensorflow`)
 - OpenCV (`pip install opencv-python`)
@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DeepSecure-AI.git
+    git clone https://github.com/Divith123/DeepSecure-AI.git
     cd DeepSecure-AI
     ```
 

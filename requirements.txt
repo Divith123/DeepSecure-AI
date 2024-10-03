@@ -1,5 +1,7 @@
-tensorflow
-tensorflow-addons
+gradio==4.29.0
+tensorflow==2.14.1
+tensorflow_addons
+keras
 facenet-pytorch
 numpy
 opencv-python-headless

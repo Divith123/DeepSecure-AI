@@ -126,4 +126,4 @@ For more information, check the [Contribution Guidelines](CONTRIBUTING.md).
 
 ### Disclaimer
 
-DeepSecure-AI is a research project and is designed for educational purposes. Please use responsibly and always give proper credit when utilizing the model in your work.
+DeepSecure-AI is a research project and is designed for educational purposes.Please use responsibly and always give proper credit when utilizing the model in your work.

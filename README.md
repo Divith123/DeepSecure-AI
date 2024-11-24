@@ -14,7 +14,7 @@ DeepSecure-AI is a powerful open-source tool designed to detect fake images, vid
 
 ---
 
-## Demo
+## Demo-Data
 
 You can test the deepfake detection capabilities of DeepSecure-AI by uploading your video files. The tool will analyze each frame of the video, detect faces, and determine the likelihood of the video being real or fake.
 
